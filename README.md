@@ -1,5 +1,5 @@
 <a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
-**CLICK HERE**</a> to try it online
+<b>CLICK HERE</b></a> to try it online
 
 ### Natural Language Processing - English Word Predictor
 
@@ -26,7 +26,7 @@ produce the suggestions for both, the current word and the following word.
 information section of the app.
 
 * For a Spanish version of the predictor, check the
-<a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish</a>
+<a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish app</a>
 
 * Or for a bilingual Spanish-English version with language auto-detect, check the 
 <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">EN-ES app</a>
@@ -43,7 +43,7 @@ The shiny app takes text as an input and automatically,
 The predictor was built from the ground up using the following, 
 
 1. Three English corpora from SwiftKey containing publicly available news, 
-personal blogs, and twitter posts. More information [here](https://web-beta.archive.org/web/20160930083655/http://www.corpora.heliohost.org/aboutcorpus.html). [Download here](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)  
+personal blogs, and twitter posts. More information [here](https://web-beta.archive.org/web/20160930083655/http://www.corpora.heliohost.org/aboutcorpus.html). Or [download here](https://d396qusza40orc.cloudfront.net/dsscapstone/dataset/Coursera-SwiftKey.zip)  
 2. A partial English Wikipedia dump containing updated articles. Downloaded on 
 Aug 18, 2017. [Download here](https://dumps.wikimedia.org/enwiki/20170820/enwiki-20170820pages-articles1.xml-p10p30302.bz2).  
 3. A collection of recent, popular, and trending topics Twitter posts from Aug 28-30, 2017. Downloaded using the `rtweet` package. No link available, please contact. 
@@ -91,3 +91,16 @@ rel="see html report">
 style="width: 600px;"/></a>
 </center>
 <br><br>
+
+<br>
+<p align="center">
+<a href="https://reyvaz.github.io/NLP-English-Predictor/" 
+rel="see html report">
+<img src="eng_cloud4.png" alt="Drawing" 
+style="width: 600px;"/></a>
+</p>
+<br><br>
+
+
+
+

@@ -31,9 +31,9 @@ information section of the app.
 * Or for a bilingual Spanish-English version with language auto-detect, check the 
 <a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">EN-ES app</a>.
 
-* See this in [GitHub Pages](https://reyvaz.github.io/NLP-English-Predictor/).  
+* See this on [GitHub Pages](https://reyvaz.github.io/NLP-English-Predictor/).  
 
-### About
+### More Information
 
 The shiny app takes text as an input and automatically,  
 
@@ -89,6 +89,4 @@ allows for smooth execution, and easy scale-up without being heavy on resources.
 rel="see html report">
 <img src="eng_cloud4.png" alt="Drawing" width = "500"></a>
 </p>
-<br>
-<hr>
 <br>

@@ -98,7 +98,7 @@ style="width: 600px;"/></a>
 <a href="https://reyvaz.github.io/NLP-English-Predictor/" 
 rel="github pages">
 <img src="eng_cloud4copy.png" alt="wordcloud" 
-style="width: 500px;"/></a>
+style="width: 400px;"/></a>
 </p>
 <br><br>
 

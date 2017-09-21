@@ -1,5 +1,5 @@
-[**CLICK HERE**](https://rvaz.shinyapps.io/english_predictor/)
-to try it online
+<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">
+**CLICK HERE**</a> to try it online
 
 ### Natural Language Processing - English Word Predictor
 
@@ -20,15 +20,16 @@ The function predict.both( ), with a word or phrase as an argument, is what will
 produce the suggestions for both, the current word and the following word. 
 
 * To see the predictor at work, visit the app 
-[here](https://rvaz.shinyapps.io/english_predictor/).
+<a href="https://rvaz.shinyapps.io/english_predictor/" target="_blank">here</a>
 
 * To learn more about the app, the algorithms, or the corpus, visit the 
 information section of the app.
 
-* For a Spanish version of the predictor, check the [Spanish app](https://rvaz.shinyapps.io/es_predictor/).
+* For a Spanish version of the predictor, check the
+<a href="https://rvaz.shinyapps.io/es_predictor/" target="_blank">Spanish</a>
 
 * Or for a bilingual Spanish-English version with language auto-detect, check the 
-[EN-ES app](https://rvaz.shinyapps.io/en_es_predictor).
+<a href="https://rvaz.shinyapps.io/en_es_predictor/" target="_blank">EN-ES app</a>
 
 * See this in [GitHub Pages](https://reyvaz.github.io/NLP-English-Predictor/).  
 

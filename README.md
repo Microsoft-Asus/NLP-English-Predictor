@@ -84,15 +84,6 @@ without significantly sacrificing accuracy. Whereas the limited footprint
 allows for smooth execution, and easy scale-up without being heavy on resources.
 
 <br>
-<center>
-<a href="https://reyvaz.github.io/NLP-English-Predictor/" 
-rel="see html report">
-<img src="eng_cloud4.png" alt="Drawing" 
-style="width: 600px;"/></a>
-</center>
-<br><br>
-
-<br>
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-English-Predictor/" 
 rel="see html report">
@@ -102,5 +93,12 @@ style="width: 600px;"/></a>
 <br><br>
 
 
-
+<br>
+<p align="center">
+<a href="https://reyvaz.github.io/NLP-English-Predictor/" 
+rel="see html report">
+<img src="eng_cloud4copy.png" alt="Drawing" 
+style="width: 600px;"/></a>
+</p>
+<br><br>
 

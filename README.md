@@ -86,7 +86,7 @@ allows for smooth execution, and easy scale-up without being heavy on resources.
 <br>
 <p align="center">
 <a href="https://reyvaz.github.io/NLP-English-Predictor/" 
-rel="see html report">
+rel="github pages">
 <img src="eng_cloud4.png" alt="Drawing" width = "500"></a>
 </p>
 <br>
